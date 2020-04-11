@@ -1,4 +1,4 @@
-# Mathematical-Problems
+# Mathematical Problems
 -A repository with calculation programs for mathematical problems-
 
 In this repository there are programs with which you can find the answer for mathematical problems, as finding an Eulerian Circuit for a 5 node graph, if it exists (spoiler: it does..).
