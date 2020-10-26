@@ -10,3 +10,13 @@ The name is pretty self explanatory.. When you run the program, you will be prom
 
 >In order to download NetworkX, make sure you have python 3 installed and your pip3 is updated and afterwards type:
 >"pip3 install networkx". It will work like a charm.
+
+**2. Havel-Hakimi Theorem (for Graphs)
+
+The Havel–Hakimi algorithm is an algorithm in graph theory solving the graph realization problem. That is, it answers the following question: Given a finite list of nonnegative integers, is there a simple graph such that its degree sequence is exactly this list? The degree sequence is a list of numbers that for each vertex of the graph states how many neighbors it has. For a positive answer, the list of integers is called graphic. The algorithm constructs a special solution if one exists or proves that one cannot find a positive answer. This construction is based on a recursive algorithm. There are 3 options:
+Option 1: You enter all the data manually
+Option 2: You enter a string containing the degree sequence
+Option 3: You enter the name of a file containing one (or more) degree sequence(s).
+
+>In order to run this program, you will need networkx and matplotlib
+>Use "pip3 install networkx" and "pip3 install matplotlib".
