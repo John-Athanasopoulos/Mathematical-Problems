@@ -14,5 +14,4 @@ The Havel–Hakimi algorithm is an algorithm in graph theory solving the graph r
 <ul>Option 1: You enter all the data manually
 <br>Option 2: You enter a string containing the degree sequence
 <br>Option 3: You enter the name of a file containing one (or more) degree sequence(s).</ul>
-<br>In order to run this program, you will need **networkx** and **matplotlib**
-
+<br>In order to run this program, you will need networkx and matplotlib.
